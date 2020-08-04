@@ -1,11 +1,29 @@
 ### Hi, I'm Apiwat
 
+- d
+- d
+- d
+
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.svg" />](https://www.linkedin.com/in/achuaphan/)
 
 <br />
 
 ### Languages and Tools:
 
-<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist] -->
+<!-- <img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/python.svg" />
+<img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/javascript.svg" />
+<img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/node.svg" />
+<img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/react.svg" />
+<img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/flask.svg" /> -->
+
+<br />
+
+---
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=apiwatc&count_private=true&show_icons=true&theme=dracula&hide=stars,)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=apiwatc&theme=dracula&layout=compact)]()
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&theme=dracula&repo=covidash)]()
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&theme=dracula&repo=netflix-with-react)]()
