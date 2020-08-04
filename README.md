@@ -22,8 +22,8 @@
 
 ---
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=apiwatc&count_private=true&show_icons=true&theme=dracula&hide=stars,)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=apiwatc&theme=dracula&layout=compact)]()
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=apiwatc&count_private=true&show_icons=true&theme=vue&hide=stars,)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=apiwatc&theme=vue&layout=compact)]()
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&theme=dracula&repo=covidash)]()
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&theme=dracula&repo=netflix-with-react)]()
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&theme=vue&repo=covidash)]()
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&theme=vue&repo=netflix-with-react)]()
