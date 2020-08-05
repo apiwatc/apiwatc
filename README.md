@@ -1,6 +1,6 @@
 ### Hi, I'm Apiwat 🙌
 
-- I'm currently working on my project Atob with [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/dialogflow.png">]()
+- I'm currently working on my project Atob
 -
 -
 
@@ -31,17 +31,6 @@
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/azure.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/gcp.png">]()
-
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/python.svg"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/javascript.svg"></code>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/flask.svg"></code>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/django.svg"></code>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/node.svg"></code>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/react.svg"></code> -->
 <br />
 
 ---
