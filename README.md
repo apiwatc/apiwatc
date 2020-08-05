@@ -28,17 +28,17 @@
 ---
 
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=apiwatc&count_private=true&show_icons=true&theme=dracula&hide=stars" alt="Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apiwatc&count_private=true&show_icons=true&theme=dracula&hide=stars" alt="Github Stats" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apiwatc&theme=dracula&layout=compact" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apiwatc&theme=dracula&layout=compact" alt="Top Langs" />
 </a>
 
 ---
 
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=covidash" alt="Repo Cards" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=covidash" alt="Repo Cards" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=netflix-with-react" alt="Repo Cards" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=netflix-with-react" alt="Repo Cards" />
 </a>
