@@ -41,3 +41,5 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apiwatc&theme=dracula&layout=compact" alt="Top Langs" />
 </a>
+
+**_NOTE:_** _The Most Used Languages card shows stats based on GitHub metric of which languages I have the most code on repositories, does not indicate the skill level._
