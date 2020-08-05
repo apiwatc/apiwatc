@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.svg" />](https://www.linkedin.com/in/achuaphan/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.png" />](https://www.linkedin.com/in/achuaphan/)
 
 <br />
 
