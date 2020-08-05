@@ -1,6 +1,6 @@
 ### Hi, I'm Apiwat 🙌
 
-- I'm currently working on my project Atob
+- I'm currently working on my project Atob with [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/dialogflow.png">]()
 -
 -
 
@@ -10,7 +10,7 @@
 
 <br />
 
-### Languages and Tools I have used:
+### Technologies (I have used and been learning):
 
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/Python.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mongodb.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/aws-lambda.png">]()
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/aws.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/azure.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
