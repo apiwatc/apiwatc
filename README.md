@@ -1,6 +1,6 @@
-### Hi, I'm Apiwat
+### Hi, I'm Apiwat 🙌
 
-- d
+- I'm currently working on my project Atob
 - d
 - d
 
@@ -10,20 +10,35 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I have used:
 
-<!-- <img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/python.svg" />
-<img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/javascript.svg" />
-<img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/node.svg" />
-<img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/react.svg" />
-<img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/flask.svg" /> -->
-
+<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/python.svg"></code>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/javascript.svg"></code>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/flask.svg"></code>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/django.svg"></code>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/node.svg"></code>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/react.svg"></code>
 <br />
 
 ---
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=apiwatc&count_private=true&show_icons=true&theme=vue&hide=stars,)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=apiwatc&theme=vue&layout=compact)]()
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=apiwatc&count_private=true&show_icons=true&theme=dracula&hide=stars" alt="Github Stats" />
+</a>
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apiwatc&theme=dracula&layout=compact" alt="Top Langs" />
+</a>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=covidash)]()
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=netflix-with-react)]()
+---
+
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=covidash" alt="Repo Cards" />
+</a>
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=netflix-with-react" alt="Repo Cards" />
+</a>
