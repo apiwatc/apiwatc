@@ -1,8 +1,8 @@
 ### Hi, I'm Apiwat 🙌
 
 - I'm currently working on my project Atob
-- d
-- d
+-
+-
 
 ### Connect with me:
 
@@ -32,25 +32,4 @@
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apiwatc&theme=dracula&layout=compact" alt="Top Langs" />
-</a>
-
----
-
-<a href="">
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=covidash" alt="Repo Cards" />
-</a>
-<a href="">
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=netflix-with-react" alt="Repo Cards" />
-</a>
-<a href="">
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=coding-challenges" alt="Repo Cards" />
-</a>
-<a href="">
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=deno-rest-api" alt="Repo Cards" />
-</a>
-<a href="">
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=news-scraper" alt="Repo Cards" />
-</a>
-<a href="">
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=apiwatc" alt="Repo Cards" />
 </a>
