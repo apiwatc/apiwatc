@@ -37,8 +37,8 @@
 ---
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=covidash" alt="Repo Cards" />
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=covidash" alt="Repo Cards" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=netflix-with-react" alt="Repo Cards" />
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=apiwatc&repo=netflix-with-react" alt="Repo Cards" />
 </a>
