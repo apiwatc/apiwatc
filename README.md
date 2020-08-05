@@ -14,7 +14,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/python.svg"></code>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/Python.png"></code>
+<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/Python.png">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/javascript.svg"></code>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
