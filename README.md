@@ -1,12 +1,8 @@
 ### Hi, I'm Apiwat 🙌
 
-- I'm currently working on my project Atob
--
--
+- I'm currently working on my project Atob, a TA-like chatbot for STC 
 
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.png" />](https://www.linkedin.com/in/achuaphan/)
+### Connect with me: [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.png" />](https://www.linkedin.com/in/achuaphan/)
 
 <br />
 
