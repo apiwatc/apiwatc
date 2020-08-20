@@ -2,7 +2,7 @@
 
 - I'm currently working on my project Atob, a TA-like chatbot for STC 
 
-### Connect with me: [<img alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.png" />](https://www.linkedin.com/in/achuaphan/)
+### Connect with me: [<img alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.png" />](https://www.linkedin.com/in/apiwatc/)
 
 ### Technologies (I have used and been learning):
 
