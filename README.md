@@ -34,7 +34,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/gcp.png">]('#')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/firebase.png">]('#')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/firebase.png">]("https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/firebase.png")
 <br />
 
 ---
