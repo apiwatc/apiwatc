@@ -1,6 +1,10 @@
 ### Hi, I'm Apiwat 🙌
 
-- I'm currently working on my project Atob, a TA-like chatbot for STC 
+- I'm currently learing Azure and on my way to get Certified Developer Associate.
+- I'm also volunterring as a Full Stack Engineer.
+- I'm also contributing something useful to open source community.
+- And...
+- I will be joing DubHacks 2020 this weekends, see you there. 😀
 
 ### Connect with me: [<img alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.png" />](https://www.linkedin.com/in/apiwatc/)
 
