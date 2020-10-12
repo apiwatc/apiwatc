@@ -14,11 +14,13 @@
 
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/Python.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/js.png">]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/node.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/React.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/js.png">]()
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/bash.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/flask.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,11 +28,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mongodb.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mysql.png">]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/aws.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/azure.png">]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/gcp.png">]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/firebase.png">]()
 <br />
 
 ---
