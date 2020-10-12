@@ -10,31 +10,31 @@
 
 ### Technologies (I have used and been learning):
 
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/Python.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/Python.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/js.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/js.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/node.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/node.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/React.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/React.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/bash.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/bash.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/flask.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/flask.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/django.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/django.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mongodb.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mongodb.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mysql.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mysql.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/aws.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/aws.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/azure.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/azure.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/gcp.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/gcp.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/firebase.png">]("https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/firebase.png")
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/firebase.png">]("https://github.com/apiwatc/apiwatc")
 <br />
 
 ---
