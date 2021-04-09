@@ -1,10 +1,9 @@
 ### Hi, I'm Apiwat 🙌
 
-- I'm currently learing Azure and AWS and on my way to get Certified Developer Associate.
-- I'm also volunterring as a Full Stack Engineer.
+- I'm currently working as a Full Stack Software Engineer.
+- I'm also learning Azure and AWS and on my way to get Certified Developer Associate.
 - I'm also contributing something useful to open source community.
-- And...
-- I joined DubHacks 2020 and had a lot of fun there. 😀
+- And...nice to meet you!😀
 
 ### Connect with me: [<img alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.png" />](https://www.linkedin.com/in/apiwatc/)
 
