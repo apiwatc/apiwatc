@@ -34,6 +34,10 @@
 [<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/gcp.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/firebase.png">]("https://github.com/apiwatc/apiwatc")
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/php.png">]("https://github.com/apiwatc/apiwatc")
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mssql.png">]("https://github.com/apiwatc/apiwatc")
 <br />
 
 ---
