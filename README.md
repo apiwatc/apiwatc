@@ -1,8 +1,6 @@
 ### Hi, I'm Apiwat 🙌
 
-- I'm currently working as a Full Stack Software Engineer.
-- I'm also learning Azure and AWS and on my way to get Certified Developer Associate.
-- I'm also contributing something useful to open source community.
+- I'm contributing something useful to open source community.
 - And...nice to meet you!😀
 
 ### Connect with me: [<img alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.png" />](https://www.linkedin.com/in/apiwatc/)
