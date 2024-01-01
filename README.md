@@ -1,41 +1,39 @@
-### Hi, I'm Apiwat 🙌
+### Hi, I'm Apiwat
 
-- I'm contributing something useful to open source community.
+- I'm looking to contribute something useful to the open-source community.
 - And...nice to meet you!😀
 
-### Connect with me: [<img alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/linkedin.png" />](https://www.linkedin.com/in/apiwatc/)
+### Technologies (I have been using and learning) as of 2020:
 
-### Technologies (I have used and been learning):
-
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/Python.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" alt='Python' src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/Python.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/js.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/js.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/node.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/node.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/React.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/React.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/bash.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/bash.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/flask.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/flask.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/django.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/django.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mongodb.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mongodb.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mysql.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mysql.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/aws.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/aws.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/azure.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/azure.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/gcp.png">]('https://github.com/apiwatc/apiwatc')
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/gcp.png">]('https://github.com/apiwatc/apiwatc')
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/firebase.png">]("https://github.com/apiwatc/apiwatc")
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/firebase.png">]("https://github.com/apiwatc/apiwatc")
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/php.png">]("https://github.com/apiwatc/apiwatc")
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/php.png">]("https://github.com/apiwatc/apiwatc")
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mssql.png">]("https://github.com/apiwatc/apiwatc")
+[<img height="20" src="https://raw.githubusercontent.com/apiwatc/apiwatc/master/assets/mssql.png">]("https://github.com/apiwatc/apiwatc")
 <br />
 
 ---
